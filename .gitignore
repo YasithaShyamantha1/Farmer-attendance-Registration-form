@@ -5,9 +5,6 @@ npm-error.log
 yarn.lock
 package-lock.json
 
-# Database
-data/entries.db
-
 # Environment variables
 .env
 .env.local
