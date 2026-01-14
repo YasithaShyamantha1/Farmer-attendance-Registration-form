@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+npm-debug.log
+npm-error.log
+yarn.lock
+package-lock.json
+
+# Database
+data/entries.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build/dist
+dist/
+build/
+
+# Logs
+logs/
+*.log
